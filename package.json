@@ -1,0 +1,22 @@
+{
+  "name": "inventery",
+  "version": "1.0.0",
+  "description": "small POS invertery system",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "prod": "node app.js"
+  },
+  "keywords": [
+    "inventery",
+    "system"
+  ],
+  "author": "Nadeem Qasmi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
